@@ -206,11 +206,11 @@ Handle g_hOnWarmupCfg = INVALID_HANDLE;
 
 // clang-format off
 public Plugin myinfo = {
-    name = "CS:GO PugSetup",
+    name = "CS:GO PugSetup - experimental",
     author = "splewis,Icy",
     description = "Tools for setting up pugs/10mans",
     version = PLUGIN_VERSION,
-    url = "https://github.com/splewis/csgo-pug-setup"
+    url = "https://github.com/IcyJan/csgo-pug-setup/tree/experimental"
 };
 // clang-format on
 
@@ -1696,10 +1696,6 @@ public void PrintSetupInfo(int client) {
     PugSetup_Message(client, "%t: {GREEN}%s", "MapTypeOption", buffer);
   }
 
-  if (g_DisplayTeamSize || g_DisplayTeamType) {
-    GetTeamString(buffer, sizeof(buffer), g_TeamType, client);
-    PugSetup_Message(client, "%t: {GREEN}%s", "TeamTypeOption", buffer);
-  }
   if (g_DisplayTeamSize || g_DisplayTeamType) {
     GetTeamString(buffer, sizeof(buffer), g_TeamType, client);
     PugSetup_Message(client, "%t: ({GREEN}%d vs %d{NORMAL}) {GREEN}%s", "TeamTypeOption",

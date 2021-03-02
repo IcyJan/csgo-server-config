@@ -322,7 +322,6 @@ public int Native_Message(Handle plugin, int numParams) {
 public int Native_MessageToAll(Handle plugin, int numParams) {
   char prefix[64];
   g_MessagePrefixCvar.GetString(prefix, sizeof(prefix));
-
   char buffer[1024];
   int bytesWritten = 0;
 
