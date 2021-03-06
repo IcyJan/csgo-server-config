@@ -2,7 +2,7 @@
 ---
 1: Sign Up
 ![install image 1](install/1.png)
-1. Add your login information
+1. On [dathost.net](https://dathost.net/sign-up) add your login information
 2. Sign up
 ---
 2: Select Game
@@ -19,7 +19,7 @@
 ---
 5: Set Name and Password
 ![install image 5](install/5.png)
-1. configure your server name and passwords
+1. Configure your server name and passwords
 2. Next
 ---
 6: Set Server Location
@@ -52,7 +52,8 @@
 1. Select 'Mods&Plugins'
 2. Activate SourceMod and Deactivate cSay
 3. Add yourself as an Admin (add your teammates by adding their steamIDs [steamIDfinder](https://steamidfinder.com/))
-4. Upload the [custom configuration](https://github.com/IcyJan/csgo-icy-server/archive/master.zip)
-5. Save at teh bottom
+4. Download the custom configuration [here]](https://github.com/IcyJan/csgo-server-config/archive/master.zip) and then upload it by drag and drop to your server
+5. Save teh cahnges at the bottom
 6. Go Back to the overview
+6. And start your server
 ---
