@@ -2,6 +2,7 @@
 |Command | Effect|
 | --- | --- |
 | **Setup**   |
+| .map [mapname] | Change map to [mapname] |
 | .pug | Start Pug |
 | .scrim | Start Scrim |
 | .match | Start Match |
