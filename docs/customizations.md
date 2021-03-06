@@ -7,6 +7,7 @@ Open **csgo/cfg/custom.cfg** and change the prefixes. (You can use the colors th
 Download the files **csgo/bottom1.png** and **cfg/right2.png**. Create pngs with the same names and dimensions (or just edit the ones you downloaded). Then upload them to the same directory.
 
 ### Serverside player names
-Open **csgo/namesfile.txt**. Add the playernames usig the format ```"steamID64 (Dec)"	"playername"``` You can find the ```steamID64 (Dec)``` on <a href="https://steamidfinder.com/" target="_blank">steamIDfinder</a>. example: "76561198011113956"	"Icy"
+Open **csgo/namesfile.txt**. Add the playernames usig the format ```"steamID64 (Dec)"	"playername"``` You can find the ```steamID64 (Dec)``` on <a href="https://steamidfinder.com/" target="_blank">steamIDfinder</a>. example: "13371234567891337"	"playername"
 
 ### Serverside player images
+Follow <a href="https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=765964792" target="_blank">this</a> tutorial on how to generate the avatars. Then copy the ```'steamID64 (Dec)'.rgb``` files to **csgo/avatars**. You can find the ```steamID64 (Dec)``` on <a href="https://steamidfinder.com/" target="_blank">steamIDfinder</a>.
