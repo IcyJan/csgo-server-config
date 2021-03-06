@@ -11,6 +11,7 @@
 | **Settings after Setup**   |
 | .print/.noprint | Enable/Disable Damageprint |
 | .playout/.clinch | Enable/Disable Playout (playing all 30 rounds) |
+| .knife/.noknife | Enable/Disable Kniferound |
 ||
 | **Before the match**   |
 | .capt/rand | Choose captains that pick players in pugs/Choose radnom captains |
