@@ -24,9 +24,8 @@
 | .ready/.r | Ready up |
 ||
 | **During a match**   |
-| .tac | Take tactical timeout |
-| .tec/.tech/.pause/.p | Take technical timeout |
-| .unpause/.u | End technical timeout |
+| .pause/.p/.tac/.tec/.tech | Pause match |
+| .unpause/.u | End pause |
 | .stop | Vote to restore previous round |
 | .restore | Restore an older round |
 | .end/.forceend | End the match/Force the end of the match |
