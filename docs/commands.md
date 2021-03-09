@@ -17,6 +17,8 @@
 | .print/.noprint | Enable/Disable Damageprint |
 | .playout/.clinch | Enable/Disable Playout (playing all 30 rounds) |
 | .knife/.noknife | Enable/Disable Kniferound |
+| .lock/.nolock | Enable/Disable Teamlock |
+| .kick/.nokick | Enable/Disable Autokick |
 ||
 | **Before the match**   |
 | .capt/rand | In Pugs choose captains that pick players/Choose radnom captains |
