@@ -17,6 +17,7 @@
 | .print/.noprint | Enable/Disable Damageprint |
 | .playout/.clinch | Enable/Disable Playout (playing all 30 rounds) |
 | .knife/.noknife | Enable/Disable Kniferound |
+| .demo/.nodeno | Enable/Disable Demo recording (also stops a current recording) |
 | .lock/.nolock | Enable/Disable Teamlock |
 | .kick/.nokick | Enable/Disable Autokick |
 ||
