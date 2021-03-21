@@ -3,11 +3,11 @@
 | --- | --- |
 | **Setup**   |
 | .map [mapname] | Change map to [mapname] |
-| .pug | Start Pug |
-| .scrim | Start Scrim |
-| .match | Start Match |
+| .pug | Start Pug (kniferound, first to 16 + OT, damageprint, vote map, captains pick teams, record demo)|
+| .scrim | Start Scrim (no kniferound, full 30, damageprint, current map/teams, record demo)|
+| .match | Start Match (kniferound, first to 16 + OT, no damageprint, current map/teams, record demo)|
 | .prac | Start Prac (This will end the current match!) |
-| .setup | Modify the pug settings and create a custom pug |
+| .setup | Create a custom match |
 ||
 | **Customization**   |
 | .readymsg [text] | Change your ready message to [text] eg: .readymsg ready to rumble |

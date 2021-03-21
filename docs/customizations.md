@@ -1,10 +1,10 @@
-All modifications can be done on DatHost after following the [Installation](docs/installation.md). Edit your server and go to 'File Manager'.
+All modifications can be done on DatHost after following the [Installation](docs/installation.md). Edit your server and then go to the 'File Manager' tab.
 
 ### **Set custom ready message**
 Use .readymsg [text] ingame to change your ready message to [text]. eg: .readymsg ready to rumble 
 
 ### **Associate a teamname with a player**
-Use .teamname "[player]"  "[teamname]"  [teamflag] ingame to associate a [player] with a "[teamname]" and [teamflag] <a href="https://countrycode.org/" target="_blank">CountryCodes</a> eg: .teamname "player" "Team 1" CH
+Use .teamname "[player]"  "[teamname]"  [teamflag] ingame to associate a [player] with a [teamname] and [teamflag] <a href="https://countrycode.org/" target="_blank">CountryCodes</a> eg: .teamname "player" "Team 1" CH
 
 ### **Custom prefix for chat messages**
 Open **csgo/cfg/custom.cfg** and change the prefixes. (You can use the colors that are indicated at the top)
